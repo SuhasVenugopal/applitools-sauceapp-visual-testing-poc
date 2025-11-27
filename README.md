@@ -1,0 +1,1 @@
+# applitools-sauceapp-visual-testing-poc
